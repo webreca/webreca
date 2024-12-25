@@ -99,9 +99,9 @@ We have worked with businesses of all sizes, from startups to large enterprises.
 
 Are you ready to build your digital presence? Let’s talk!
 
-- **Email**: [webreca@gmail.com](mailto:webreca@gmail.com)
-- **Phone**: +91-9999577620
-- **Office Address**: M-4, New Police Line, Kingsway Camp, New Delhi, India 110009
+- 📧 **Email**: [webreca@gmail.com](mailto:webreca@gmail.com)
+- ☎️ **Phone**: +91-9999577620
+- 📍 **Office Address**: M-4, New Police Line, Kingsway Camp, New Delhi, India 110009
 
 Follow us on social media for the latest updates:
 - [Facebook](https://www.facebook.com/profile.php?id=100089151942138)
