@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/188210300?v=4" alt="drawing" style="width:80px;"/>
+<img src="https://github.com/webreca/webreca/blob/main/webreca-banner.png" alt="drawing" style="width:100%;"/>
 
 ## Webreca Technologies - New Delhi, India
 
