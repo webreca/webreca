@@ -1,5 +1,7 @@
 
 <img src="https://github.com/webreca/webreca/blob/main/webreca-banner.png" alt="drawing" style="width:100%;"/>
+<img src="https://github.com/webreca/webreca/blob/main/technologies-used.png" alt="drawing" style="width:100%;"/>
+
 
 ## Webreca Technologies - New Delhi, India
 
