@@ -108,6 +108,7 @@ Follow us on social media for the latest updates:
 - [Github](https://github.com/webreca)
 - [LinkedIn](https://www.linkedin.com/in/webreca-technologies-496519339/)
 - [Instagram](https://www.instagram.com/webreca21292/)
+- [Stack Overflow](https://stackoverflow.com/users/17358298/webreca-technologies)
 
 ---
 
