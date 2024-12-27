@@ -1,5 +1,5 @@
 
-Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, We are [Webreca Technologies!](https://www.github.com/webreca) 
+[Webreca Technologies!](https://www.github.com/webreca) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 <br />
 <br />
 <img src="https://github.com/webreca/webreca/blob/main/webreca-banner.png" alt="drawing" style="width:100%;"/>
@@ -136,3 +136,25 @@ We’d like to acknowledge our talented team, our loyal clients, and the technol
 ---
 
 Thank you for considering us for your next project! We look forward to partnering with you.
+<br />
+<br />
+- [Facebook](https://www.facebook.com/profile.php?id=100089151942138)
+- [Github](https://github.com/webreca)
+- [LinkedIn](https://www.linkedin.com/in/webreca-technologies-496519339/)
+- [Instagram](https://www.instagram.com/webreca21292/)
+- [Stack Overflow](https://stackoverflow.com/users/17358298/webreca-technologies)
+<a href="https://www.facebook.com/profile.php?id=100089151942138">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/webreca-technologies-496519339/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://github.com/webreca">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:webreca@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/webreca21292/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
