@@ -138,11 +138,7 @@ We’d like to acknowledge our talented team, our loyal clients, and the technol
 Thank you for considering us for your next project! We look forward to partnering with you.
 <br />
 <br />
-- [Facebook](https://www.facebook.com/profile.php?id=100089151942138)
-- [Github](https://github.com/webreca)
-- [LinkedIn](https://www.linkedin.com/in/webreca-technologies-496519339/)
-- [Instagram](https://www.instagram.com/webreca21292/)
-- [Stack Overflow](https://stackoverflow.com/users/17358298/webreca-technologies)
+
 <a href="https://www.facebook.com/profile.php?id=100089151942138">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -151,6 +147,9 @@ Thank you for considering us for your next project! We look forward to partnerin
 </a>
 <a href="https://github.com/webreca">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://stackoverflow.com/users/17358298/webreca-technologies">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stack-overflow.svg" />
 </a>
 <a href="mailto:webreca@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
