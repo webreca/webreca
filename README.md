@@ -134,8 +134,10 @@ This project is licensed under the [MIT License](#).
 
 We’d like to acknowledge our talented team, our loyal clients, and the technologies that empower us to deliver excellent digital experiences.
 
----
 
+<img src="https://github.com/webreca/webreca/blob/main/linked-in-banner.png" alt="drawing" style="width:100%;"/><br />
+<br />
+---
 Thank you for considering us for your next project! We look forward to partnering with you.
 <br />
 <br />
@@ -159,4 +161,3 @@ Thank you for considering us for your next project! We look forward to partnerin
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img src="https://github.com/webreca/webreca/blob/main/linked-in-banner.png" alt="drawing" style="width:100%;"/>
