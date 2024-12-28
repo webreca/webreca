@@ -1,5 +1,5 @@
 
-[Webreca Technologies!](https://www.github.com/webreca) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
+[Webreca Technologies!](https://www.webreca.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 <br />
 <br />
 <img src="https://github.com/webreca/webreca/blob/main/webreca-banner.png" alt="drawing" style="width:100%;"/>
@@ -158,3 +158,5 @@ Thank you for considering us for your next project! We look forward to partnerin
 <a href="https://www.instagram.com/webreca21292/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<img src="https://github.com/webreca/webreca/blob/main/linked-in-banner.png" alt="drawing" style="width:100%;"/>
