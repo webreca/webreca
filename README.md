@@ -160,4 +160,7 @@ Thank you for considering us for your next project! We look forward to partnerin
 <a href="https://www.instagram.com/webreca21292/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.instagram.com/webreca21292/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+</a>
 
